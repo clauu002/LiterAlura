@@ -34,7 +34,7 @@ public class Main {
         while (opcion != 0) {
             var menu = """
                     ----------------------------------------------------------------
-                        Aplicacion de ***LiterAlura*** - n/Busca Libros y Autores por fecha ☆
+                        Aplicacion de ***LiterAlura*** - Busca Libros y Autores por fecha ☆
                     ----------------------------------------------------------------
                     
                     Selecciona la opcion de tu preferencia: 
